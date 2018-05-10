@@ -18,7 +18,7 @@ var friends = [
     },
     {
         "name":"Johnny Depp",
-        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu22MXch9tvaqd5oZ3Yxb5yed7ww--CYiehyJuc2vtayqXjpeC",
+        "photo":"https://www.google.com/imgres?imgurl=https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0ODU5Nzk2OV5BMl5BanBnXkFtZTcwMzI2ODgyNQ@@._V1_UY317_CR4,0,214,317_AL_.jpg&imgrefurl=http://www.imdb.com/name/nm0000136/&h=317&w=214&tbnid=yIBfvW13UGGrKM:&tbnh=186&tbnw=125&usg=__61EFq8gFqSvXLEci3nDJg_9yDfo%3D&vet=10ahUKEwip367OkvraAhUCy1kKHQCIANMQ_B0ImgIwFw..i&docid=IkfpMK4LmE_8MM&itg=1&sa=X&ved=0ahUKEwip367OkvraAhUCy1kKHQCIANMQ_B0ImgIwFw",
         "scores":[
            "4",
            "2",
