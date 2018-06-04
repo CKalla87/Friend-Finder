@@ -13,4 +13,6 @@ Please see the app instructions below:
 
 5. Once you submit your survey you will be matched with someone that has similar criteria in their responses.
 
+6. Please follow the link to access the site: https://sleepy-tundra-23736.herokuapp.com/
+
 Enjoy!
